@@ -214,7 +214,15 @@ main{
 .sponsors-img-container img{
     width: 165px;
 }
-
+.footer{
+    background: #FFF4E7;
+    height:100px;
+    max-width: 1440px;
+    margin: 100px auto;
+    text-align: center;
+   padding: 20px 0px 0px 0px;
+    
+}
 
 
 /* responsive media query  */
